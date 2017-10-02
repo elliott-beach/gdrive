@@ -19,7 +19,7 @@ Version 1.5 or higher.
 ## Installation
 Released binaries will be implemented as soon as there is signifigant demand.
 
-# Compile from source
+### Compile from source
 ```bash
 go get github.com/prasmussen/gdrive
 ```
