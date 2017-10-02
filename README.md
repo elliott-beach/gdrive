@@ -21,7 +21,7 @@ Released binaries will be implemented as soon as there is signifigant demand.
 
 ### Compile from source
 ```bash
-go get github.com/prasmussen/gdrive
+go get github.com/e-beach/gdrive
 ```
 The gdrive binary should now be available at `$GOPATH/bin/gdrive`
 
