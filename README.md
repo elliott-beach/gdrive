@@ -17,7 +17,7 @@ If you want to compile from source you need the [go toolchain](http://golang.org
 Version 1.5 or higher.
 
 ## Installation
-Released binaries will be implemented as soon as there is signifigant demand.
+Released binaries will be implemented as soon as there is demand.
 
 ### Compile from source
 ```bash
